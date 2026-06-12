@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "4004",
+    "name": "Mathematics Revision Notes",
+    "level": "olevel",
+    "description": "Comprehensive revision notes covering all O Level Mathematics topics with worked examples",
+    "file": "math_revision_notes.pdf",
+    "pages": 45,
+    "topics": 15,
+    "updated": "2024-03-15"
+  },
+  {
+    "subject": "4005",
+    "name": "English Language Revision",
+    "level": "olevel",
+    "description": "Grammar rules, essay structures, and comprehension techniques for quick revision",
+    "file": "english_revision_notes.pdf",
+    "pages": 32,
+    "topics": 12,
+    "updated": "2024-02-28"
+  },
+  {
+    "subject": "4025",
+    "name": "Biology Condensed Notes",
+    "level": "olevel",
+    "description": "Essential biological concepts, diagrams, and processes summarized for efficient revision",
+    "file": "biology_revision_notes.pdf",
+    "pages": 38,
+    "topics": 18,
+    "updated": "2024-03-20"
+  },
+  {
+    "subject": "4023",
+    "name": "Chemistry Quick Revision",
+    "level": "olevel",
+    "description": "Key chemical reactions, equations, and concepts for last-minute preparation",
+    "file": "chemistry_revision_notes.pdf",
+    "pages": 42,
+    "topics": 16,
+    "updated": "2024-03-10"
+  },
+  {
+    "subject": "7001",
+    "name": "Grade 7 Mathematics Notes",
+    "level": "grade7",
+    "description": "Basic mathematics concepts and exercises for Grade 7 examination preparation",
+    "file": "grade7_math_notes.pdf",
+    "pages": 28,
+    "topics": 10,
+    "updated": "2024-03-05"
+  }
+]

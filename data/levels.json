@@ -1,0 +1,22 @@
+{
+  "grade7": {
+    "name": "Grade 7",
+    "description": "Primary school leaving examinations",
+    "order": 1
+  },
+  "zjc": {
+    "name": "ZJC",
+    "description": "Zimbabwe Junior Certificate examinations",
+    "order": 2
+  },
+  "olevel": {
+    "name": "O Level",
+    "description": "Ordinary Level examinations (Form 4)",
+    "order": 3
+  },
+  "alevel": {
+    "name": "A Level",
+    "description": "Advanced Level examinations (Form 6)",
+    "order": 4
+  }
+}

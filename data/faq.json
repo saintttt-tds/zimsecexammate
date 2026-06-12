@@ -1,0 +1,122 @@
+{
+  "general": {
+    "name": "General Questions",
+    "icon": "❓",
+    "questions": [
+      {
+        "question": "What is ZIMSEC ExamMate?",
+        "answer": "ZIMSEC ExamMate is a comprehensive online platform that provides study resources, past papers, marking schemes, and other educational materials for students preparing for ZIMSEC Grade 7, ZJC, O Level, and A Level examinations. Our mission is to make quality educational resources accessible to all students in Zimbabwe."
+      },
+      {
+        "question": "Is ZIMSEC ExamMate free to use?",
+        "answer": "Yes! All resources on ZIMSEC ExamMate are completely free. We believe in providing equal educational opportunities to all students. There are no subscription fees, hidden charges, or premium tiers."
+      },
+      {
+        "question": "Do I need to create an account to download files?",
+        "answer": "No account is needed. All verified resources are freely downloadable by anyone. You can also upload files and participate in community moderation without registration."
+      },
+      {
+        "question": "How does file verification work?",
+        "answer": "Uploaded files are reviewed by the community. Once a file receives 3 approvals from other users, it becomes publicly available. If a file receives 3 rejections, it is removed. This ensures quality and appropriateness of all content."
+      },
+      {
+        "question": "Is ZIMSEC ExamMate affiliated with the exam board?",
+        "answer": "No. ZIMSEC ExamMate is an independent platform. We are not affiliated with, endorsed by, or connected to the Zimbabwe School Examinations Council (ZIMSEC). The official ZIMSEC website is www.zimsec.co.zw."
+      }
+    ]
+  },
+  "resources": {
+    "name": "Resources & Downloads",
+    "icon": "📚",
+    "questions": [
+      {
+        "question": "How do I download past papers?",
+        "answer": "To download past papers:<br>1. Go to the Past Papers section<br>2. Use the filters to select your education level, subject, and year<br>3. Click on the paper you want to download<br>4. Click the Download button<br>5. The PDF file will download to your device"
+      },
+      {
+        "question": "What file format are the resources in?",
+        "answer": "All resources are in PDF format for easy viewing and printing. All files are virus-scanned before being made available."
+      },
+      {
+        "question": "How do I upload a file?",
+        "answer": "Go to the Upload page, select the education level, subject code, year, and resource type, then choose your PDF file. After uploading, the file enters the moderation queue where community members verify it. Once approved by 3 users, it becomes publicly available."
+      },
+      {
+        "question": "Can I request specific resources?",
+        "answer": "Absolutely! We welcome resource requests. Please use the contact form to suggest resources you'd like to see. While we can't guarantee all requests, we prioritize based on demand and availability."
+      },
+      {
+        "question": "Are marking schemes available for all papers?",
+        "answer": "We provide marking schemes for most past papers. However, some marking schemes might not be available. We continuously work to add missing marking schemes through community contributions."
+      }
+    ]
+  },
+  "technical": {
+    "name": "Technical Support",
+    "icon": "💻",
+    "questions": [
+      {
+        "question": "The file won't download. What should I do?",
+        "answer": "If you're having trouble downloading:<br>1. Check your internet connection<br>2. Ensure you have enough storage space on your device<br>3. Try using a different browser<br>4. Clear your browser cache and cookies<br>5. Disable any download managers or extensions temporarily<br>If the problem persists, contact our support team."
+      },
+      {
+        "question": "The website is loading slowly. What can I do?",
+        "answer": "Slow loading can be caused by:<br>• Poor internet connection<br>• High traffic on our servers<br>• Browser issues<br>Try these solutions:<br>• Refresh the page<br>• Clear your browser cache<br>• Try accessing during off-peak hours<br>• Use a different browser or device"
+      },
+      {
+        "question": "Is the website mobile-friendly?",
+        "answer": "Yes! ZIMSEC ExamMate is fully responsive and works perfectly on mobile phones, tablets, and desktop computers. You can access all features and download resources from any device."
+      },
+      {
+        "question": "How do I report a problem?",
+        "answer": "Contact us via email at zimsecexammate@gmail.com or through our WhatsApp at +263 71 491 2600. You can also use the Contact page to send us a message."
+      }
+    ]
+  },
+  "exams": {
+    "name": "Examination Information",
+    "icon": "🎓",
+    "questions": [
+      {
+        "question": "Where can I find exam timetables?",
+        "answer": "Official exam timetables are available in the Timetables section. We update them as soon as ZIMSEC releases the official schedules. You can also view countdown timers to upcoming exam sessions."
+      },
+      {
+        "question": "What are the examination rules?",
+        "answer": "Important examination rules include:<br>• No electronic devices (phones, smart watches)<br>• No communication between candidates<br>• Arrive at least 30 minutes before start time<br>• Follow all invigilator instructions<br>See the official ZIMSEC website for complete guidelines."
+      }
+    ]
+  },
+  "study": {
+    "name": "Study & Preparation",
+    "icon": "📖",
+    "questions": [
+      {
+        "question": "How should I use past papers effectively?",
+        "answer": "For effective past paper practice:<br>1. Time yourself as in the real exam<br>2. Attempt papers without looking at answers first<br>3. Use marking schemes to check your work<br>4. Analyze mistakes and focus on weak areas<br>5. Repeat papers to improve speed and accuracy"
+      },
+      {
+        "question": "What's the best way to use marking schemes?",
+        "answer": "Marking schemes help you:<br>• Understand what examiners look for<br>• Learn proper answer structure<br>• Identify key points for each question<br>• Improve your answering technique<br>Always attempt questions first before checking the marking scheme."
+      }
+    ]
+  },
+  "uploads": {
+    "name": "Uploading & Moderation",
+    "icon": "⬆️",
+    "questions": [
+      {
+        "question": "How do I know if my upload was accepted?",
+        "answer": "Uploaded files appear in the Moderation queue where community members can vote. You'll need 3 approvals for the file to become publicly available. Files with 3 rejections are removed."
+      },
+      {
+        "question": "What kinds of files can I upload?",
+        "answer": "You can upload PDF files up to 10MB in size. Accepted types include past papers, marking schemes, topical papers, study notes, syllabi, and project guides. All files must be related to ZIMSEC examinations."
+      },
+      {
+        "question": "Can I vote on my own uploads?",
+        "answer": "No. The system prevents the same person from voting on a file multiple times, including the uploader."
+      }
+    ]
+  }
+}

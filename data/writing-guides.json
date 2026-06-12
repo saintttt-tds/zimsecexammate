@@ -1,0 +1,23 @@
+[
+  {
+    "type": "research",
+    "title": "Research Project Guide",
+    "description": "Complete guide for conducting and writing research projects",
+    "sections": ["Introduction", "Literature Review", "Methodology", "Results", "Discussion", "Conclusion"],
+    "file": "research_project_guide.pdf"
+  },
+  {
+    "type": "science",
+    "title": "Science Practical Project",
+    "description": "Step-by-step guide for science practical projects and experiments",
+    "sections": ["Hypothesis", "Materials", "Procedure", "Data Collection", "Analysis", "Conclusion"],
+    "file": "science_project_guide.pdf"
+  },
+  {
+    "type": "technical",
+    "title": "Technical Project Report",
+    "description": "Guide for technical and engineering project documentation",
+    "sections": ["Problem Statement", "Design", "Implementation", "Testing", "Results", "Recommendations"],
+    "file": "technical_project_guide.pdf"
+  }
+]
