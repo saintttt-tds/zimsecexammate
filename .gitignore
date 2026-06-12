@@ -1,0 +1,51 @@
+# ─── System Files ─────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Block ALL PDFs everywhere
+*.pdf
+
+# Block ALL cache files
+*.cache
+cache/
+storage/cache/
+assets/pdfs/.system/cache/
+
+# Block system storage
+assets/pdfs/.system/
+assets/pdfs/approved/
+assets/pdfs/pending/
+assets/pdfs/rejected/
+storage/
+
+# Block logs and config
+*.log
+config/r2-config.php
+.env
+
+# ─── Storage (user data & PDFs) ───────────────
+storage/
+assets/pdfs/approved/
+assets/pdfs/pending/
+assets/pdfs/rejected/
+assets/pdfs/.system/
+
+# ─── Cache ────────────────────────────────────
+assets/pdfs/cache/
+*.cache
+
+# ─── Logs ─────────────────────────────────────
+*.log
+assets/pdfs/logs/
+
+# ─── IDE / Editor ─────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── Environment / Config ─────────────────────
+config/r2-config.php
+.env

@@ -1,0 +1,33 @@
+User-agent: *
+Allow: /
+Allow: /index.php
+Allow: /grade7.php
+Allow: /zjc.php
+Allow: /olevel.php
+Allow: /alevel.php
+Allow: /pastpapers.php
+Allow: /marking-schemes.php
+Allow: /topical-papers.php
+Allow: /notes.php
+Allow: /revision-notes.php
+Allow: /syllabi.php
+Allow: /timetables.php
+Allow: /projects.php
+Allow: /search.php
+Allow: /about.php
+Allow: /faq.php
+Allow: /contact.php
+Allow: /subject.php
+
+Disallow: /core/
+Disallow: /config/
+Disallow: /storage/
+Disallow: /assets/pdfs/
+Disallow: /upload/handler.php
+Disallow: /moderate/approve.php
+Disallow: /moderate/reject.php
+Disallow: /cron/
+Disallow: /*.json$
+Disallow: /*.log$
+
+Sitemap: <?= SITE_URL ?>/sitemap.xml
